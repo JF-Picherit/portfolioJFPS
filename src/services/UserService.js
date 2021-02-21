@@ -11,7 +11,7 @@ class UserService extends AbstractService {
         educations: [
             {id: 1, text:"Mastère Expert Développement Web à Bordeaux Ynov Campus.", beginDate: new Date(2021,7,1)}, 
             {id: 2, text:"LP « Développement en applications web et innovation numérique », à l'IUT de Bordeaux Montaigne.", beginDate: new Date(2020,8,14), endDate: new Date(2021,8,10), url: pdf1, title: "Relevé de notes DAWIN(en cours)."},
-            {id: 3, text:"Prépa Informatique (Bootcamp) Spécialisation « Expert Développement Web » à Bordeaux Ynov Campus.", beginDate: new Date(2021,1,6), endDate: new Date(2020,7,1)},
+            {id: 3, text:"Prépa Informatique (Bootcamp) Spécialisation « Expert Développement Web » à Bordeaux Ynov Campus.", beginDate: new Date(2021,1,6), endDate: new Date(2021,8,1)},
             {id: 4,  text:"BTS « Services Informatiques aux Organisations », option « Solution Application Logiciel et Métier ».", beginDate: new Date(2018,8,3), endDate: new Date(2020,5,5), url: pdf2, title: "Relevé de notes BTS SIO SLAM + Diplôme."},
             {id: 5,  text:"« Baccalauréat ES », option Maths, mention « assez-bien »", beginDate: new Date(2015,8,7), endDate: new Date(2018,5,15), url: pdf3, title: "Relevé de notes BAC ES + Diplôme."}
         ],
