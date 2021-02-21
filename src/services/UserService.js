@@ -28,7 +28,7 @@ class UserService extends AbstractService {
             {id: 4, icon:"fa-phone", text:"07 69 13 94 76"}
         ],
         knowledges: [
-            {id: 1, icon:"", text:"Développement et maintenace applicative (language ci-contre)."}, 
+            {id: 1, icon:"", text:"Développement et maintenance applicative (language ci-contre)."}, 
             {id: 2, icon:"", text:"Conception et adaptation d'une base de données."},
             {id: 3, icon:"", text:"Manipuler les données via SQL ou un Framework ORM."},
             {id: 4, icon:"", text:"Mise en place de tests unitaires et fonctionnels."},
