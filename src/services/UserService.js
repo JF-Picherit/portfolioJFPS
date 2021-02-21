@@ -16,10 +16,10 @@ class UserService extends AbstractService {
             {id: 5,  text:"« Baccalauréat ES », option Maths, mention « assez-bien »", beginDate: new Date(2015,8,7), endDate: new Date(2018,5,15), url: pdf3, title: "Relevé de notes BAC ES + Diplôme."}
         ],
         experiences: [
-            {id: 1,  text:"Alternance à « Planning Médical », situé à Saint-Jean-d'Illac. Maintenance, évolution et test d'un projet php, gérant et générant des plannings pour le milieu médical.", beginDate: new Date(2020,8,14), endDate: new Date(2020,8,10)}, 
+            {id: 1,  text:"Alternance à « Planning Médical », située à Saint-Jean-d'Illac. Maintenance, évolution et test d'un projet php, gérant et générant des plannings pour le milieu médical.", beginDate: new Date(2020,8,14), endDate: new Date(2020,8,10)}, 
             {id: 2,  text:"Stage à « Buisness Web Agence » à Dijon de 7 semaines, conception de solutions applicatives avec le Framework Laravel.", beginDate: new Date(2020,1,3), endDate: new Date(2020,2,20)},
             {id: 3,  text:"Stage aux « Éditions Asyelle », à Bergerac de 5 semaines. Gestion d'un serveur et rénovation d'une solution applicative en PHP.", beginDate: new Date(2019,4,6), endDate: new Date(2019,5,7)},
-            {id: 4,  text:"Assistance et dépannage informatiques à « 3E informatique », situé à Bordeaux. Gestion de la clientèle, facturation clients.", beginDate: new Date(2017,3,3), endDate: new Date(2017,3,7)}
+            {id: 4,  text:"Assistance et dépannage informatiques à « 3E informatique », située à Bordeaux. Gestion de la clientèle, facturation clients.", beginDate: new Date(2017,3,3), endDate: new Date(2017,3,7)}
         ],
         contacts: [
             {id: 1, icon:"fa-briefcase", text:"Étudiant Développeur"}, 
