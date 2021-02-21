@@ -503,8 +503,47 @@ p.genericItemtext,  .downloadFile {
 	
 	.header-right {
 	  float: none;
+	}	
+  }
+
+  @media screen and (min-width: 1024px) and (max-width: 1024px) {
+	i.fa-envelope +p{
+		font-size: 80%;
 	}
   }
+
+  @media screen and (min-width: 768px) and (max-width: 768px) {
+	i.fa-envelope +p{
+		font-size: 52%;
+	}
+  }
+
+  @media screen and (min-width: 375px) and (max-width: 375px) {
+	i.fa-envelope +p{
+		font-size: 80%;
+	}
+  }
+
+  @media screen and (min-width: 360px) and (max-width: 360px) {
+	i.fa-envelope +p{
+		font-size: 80%;
+	}
+  }
+
+  @media screen and (max-width: 320px) and (min-width: 320px) {
+	i.fa-envelope +p{
+		font-size: 70%;
+	}
+  }
+
+  @media screen and (max-width: 280px) and (min-width: 280px) {
+	i.fa-envelope +p{
+		font-size: 55%;
+	}
+  }
+
+
+
 
   footer a{
 	padding: 5px;
