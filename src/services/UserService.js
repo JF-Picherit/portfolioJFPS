@@ -17,7 +17,7 @@ class UserService extends AbstractService {
         ],
         experiences: [
             {id: 1,  text:"Alternance à « Planning Médical », située à Saint-Jean-d'Illac. Maintenance, évolution et test d'un projet php, gérant et générant des plannings pour le milieu médical.", beginDate: new Date(2020,8,14), endDate: new Date(2020,8,10)}, 
-            {id: 2,  text:"Stage à « Buisness Web Agence » à Dijon de 7 semaines, conception de solutions applicatives avec le Framework Laravel.", beginDate: new Date(2020,1,3), endDate: new Date(2020,2,20)},
+            {id: 2,  text:"Stage à « Business Web Agence » à Dijon de 7 semaines, conception de solutions applicatives avec le Framework Laravel.", beginDate: new Date(2020,1,3), endDate: new Date(2020,2,20)},
             {id: 3,  text:"Stage aux « Éditions Asyelle », à Bergerac de 5 semaines. Gestion d'un serveur et rénovation d'une solution applicative en PHP.", beginDate: new Date(2019,4,6), endDate: new Date(2019,5,7)},
             {id: 4,  text:"Assistance et dépannage informatiques à « 3E informatique », située à Bordeaux. Gestion de la clientèle, facturation clients.", beginDate: new Date(2017,3,3), endDate: new Date(2017,3,7)}
         ],
