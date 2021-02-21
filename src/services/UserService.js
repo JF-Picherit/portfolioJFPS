@@ -45,7 +45,7 @@ class UserService extends AbstractService {
             {id: 1, icon:"", text:"Montage vidéo, développement de projets personnels. Découverte d'activités sportives variées, natation, équitation, bricolage, élevage (chevaux)."}
         ],
         medias: [
-            {id: 1, icon:"fa-github", text:"Retrouver le code source du site sur Github", url:"https://github.com/Jean-Francois-Picherit-Steinbrucker"},
+            {id: 1, icon:"fa-github", text:"Retrouver le code source du site sur Github", url:"https://github.com/JF-Picherit"},
             {id: 2, icon:"fa-linkedin", text:"Retrouver moi sur linkedin", url:"https://fr.linkedin.com/in/jean-fran%C3%A7ois-picherit-steinbrucker-523a4116a"},
         ]
     }
